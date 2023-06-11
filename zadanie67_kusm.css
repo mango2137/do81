@@ -1,0 +1,31 @@
+p:first-letter
+{
+	font-size: 117pt;
+	color: yellow;
+}
+p
+{
+	font-size:19pt;
+	color:blue;
+}
+
+h1
+{
+	color:#32179F;
+	font-size:20pt;
+}
+h1:first-letter
+{
+	color:yellow; 
+	font-size:117px;
+}
+p#linia:first-line
+{
+  color:yellow;
+  font-size:117pt;
+}
+p#linia
+{
+	font-size:23pt;
+	color:blue;
+}

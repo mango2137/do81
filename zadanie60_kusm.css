@@ -1,0 +1,29 @@
+/*zadanie 60*/
+div#blok1_kusmierski {
+    background-color: 00ff00;
+    width:616px;
+}
+div#blok2_kusmierski {
+    background-color: 00ff00;
+    width:616px;
+}
+div#blok3_kusmierski {
+    background-color: 00ff00;
+    width:616px;
+}
+div#blok1_kusmierski:hover {
+    background-color: red;
+    font-size:20mm;
+}
+div#blok2_kusmierski:hover {
+    background-color: silver;
+    font-size:20mm;
+}
+div#blok3_kusmierski:hover {
+    background-color: blue;
+    font-size:20mm;
+}/*
+zmiany pewnych elementów po najechaniu na nie urządzeniem
+wskazującym (np. myszą), np. odsyłacz, nad którym zatrzymano kusor
+lub element blokowy DIV.
+Mateusz Kuśmierski*/
